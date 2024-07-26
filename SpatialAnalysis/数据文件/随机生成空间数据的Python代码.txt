@@ -1,0 +1,26 @@
+import random
+
+# 生成100个点的编号
+num_points = 100
+ids = range(1, num_points + 1)
+
+# 设定纬度和经度的范围
+lat_min, lat_max = 20.0, 50.0  # 纬度范围
+lon_min, lon_max = 100.0, 150.0  # 经度范围
+
+# 随机生成均匀分布的纬度和经度
+lats = [random.uniform(lat_min, lat_max) for _ in range(num_points)]
+lons = [random.uniform(lon_min, lon_max) for _ in range(num_points)]
+
+# 设定属性值的范围
+value_min, value_max = 200, 900
+
+# 随机生成属性值
+values = [random.uniform(value_min, value_max) for _ in range(num_points)]
+
+# 将生成的点合并到一个列表中
+points = list(zip(ids, lats, lons, values))
+
+# 打印生成的点
+for point in points:
+    print(f"{point[0]},{point[1]:.5f},{point[2]:.5f},{int(point[3])}")

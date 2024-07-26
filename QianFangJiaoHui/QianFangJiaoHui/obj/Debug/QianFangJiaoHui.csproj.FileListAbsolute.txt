@@ -1,0 +1,11 @@
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.exe.config
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.csprojAssemblyReference.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.Form1.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.Properties.Resources.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.csproj.GenerateResource.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.csproj.CoreCompileInputs.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.Form2.resources

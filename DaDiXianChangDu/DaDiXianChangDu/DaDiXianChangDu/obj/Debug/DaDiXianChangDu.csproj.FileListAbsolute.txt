@@ -1,0 +1,11 @@
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\bin\Debug\DaDiXianChangDu.exe.config
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\bin\Debug\DaDiXianChangDu.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\bin\Debug\DaDiXianChangDu.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.csprojAssemblyReference.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.Form1.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.Properties.Resources.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.csproj.GenerateResource.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.csproj.CoreCompileInputs.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\DaDiXianChangDu\DaDiXianChangDu\DaDiXianChangDu\obj\Debug\DaDiXianChangDu.Form2.resources

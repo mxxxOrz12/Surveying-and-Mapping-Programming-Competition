@@ -1,0 +1,11 @@
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\bin\Debug\ZongHengDuanMian.exe.config
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\bin\Debug\ZongHengDuanMian.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\bin\Debug\ZongHengDuanMian.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.csprojAssemblyReference.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.Form1.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.Form2.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.Properties.Resources.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.csproj.GenerateResource.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.csproj.CoreCompileInputs.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\monisai\ZongHengDuanMian\ZongHengDuanMian\obj\Debug\ZongHengDuanMian.pdb

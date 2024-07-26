@@ -1,0 +1,11 @@
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\bin\Debug\WuDianGuangHua.exe.config
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\bin\Debug\WuDianGuangHua.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\bin\Debug\WuDianGuangHua.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.csprojAssemblyReference.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.Form1.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.Properties.Resources.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.csproj.GenerateResource.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.csproj.CoreCompileInputs.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\WuDianGuangHua\WuDianGuangHua\WuDianGuangHua\obj\Debug\WuDianGuangHua.Form2.resources

@@ -1,0 +1,11 @@
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\bin\Debug\SpatialAnalysis.exe.config
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\bin\Debug\SpatialAnalysis.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\bin\Debug\SpatialAnalysis.pdb
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.csprojAssemblyReference.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.Form1.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.Form2.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.Properties.Resources.resources
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.csproj.GenerateResource.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.csproj.CoreCompileInputs.cache
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.exe
+D:\CUMT\Contest\CeHuiProgramming\个人训练\SpatialAnalysis\SpatialAnalysis\SpatialAnalysis\obj\Debug\SpatialAnalysis.pdb
